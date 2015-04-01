@@ -1,0 +1,10 @@
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\InText.csprojResolveAssemblyReference.cache
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\InText.csproj.GenerateResource.Cache
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.pdb
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\InText.frmMain.resources
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\InText.Properties.Resources.resources
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\InText\obj\Debug\Assignment.exe
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\InText\obj\Debug\Assignment.pdb

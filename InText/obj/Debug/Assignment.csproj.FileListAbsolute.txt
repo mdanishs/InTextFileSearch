@@ -1,0 +1,16 @@
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.frmMain.resources
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\University\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.pdb
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.pdb
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.frmMain.resources
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+F:\Documents\University\Semester 5\IPT\Assignmnets\Assignment5&6\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
